@@ -1,0 +1,3 @@
+Changelog:
+v0.3: Shared Project
+v0.4: Improved scoring system
